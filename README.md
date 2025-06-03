@@ -11,7 +11,6 @@
 
 ## 🚀 About Me
 
-- 🎓 Master's in Informatics @ **Universitas Pelita Harapan (UPH)**
 - 💼 Software Developer @ **PT. Ciptakomunindo Pradipta (Ciputra Group)**
 - 🧱 Experienced in building **ERP, WMS, Recruitment Platforms**
 - 💡 Focused on **Smart Contracts, Decentralized Apps, System Performance**
