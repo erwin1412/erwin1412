@@ -85,12 +85,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=erwin1412&show_icons=true&theme=tokyonight&hide_border=false" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erwin1412&theme=tokyonight&hide_border=false" width="48%"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erwin1412&layout=compact&theme=tokyonight" width="60%"/>
-</p>
+---
 
 ---
 
+## 📊 Top Languages I Use
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+
+---
 ## 🎓 Certifications
 
 - 🏅 Hacktiv8 – Golang Backend, Microservices *(ongoing)*
