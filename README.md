@@ -15,7 +15,7 @@
 - 🧱 Experienced in building **ERP, WMS, Recruitment Platforms**
 - 💡 Focused on **Smart Contracts, Decentralized Apps, System Performance**
 - 🌍 Jakarta, Indonesia  
-- 📬 Contact me at: **erwin14120824@gmail.com**
+- 📬 Contact me at: **https://www.linkedin.com/in/erwin1412**
 
 ---
 
@@ -109,9 +109,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/erwin1412" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:erwin14120824@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/erwin1412">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
