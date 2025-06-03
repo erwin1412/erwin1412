@@ -32,7 +32,7 @@
 
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Go](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=go&logoColor=61DAFB)
+![Go](https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=61DAFB)
 
 **Databases & Services:**
 
