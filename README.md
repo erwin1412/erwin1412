@@ -15,7 +15,7 @@
 - 🧱 Experienced in building **ERP, WMS, Recruitment Platforms**
 - 💡 Focused on **Smart Contracts, Decentralized Apps, System Performance**
 - 🌍 Jakarta, Indonesia  
-- 📬 Contact me at: **https://www.linkedin.com/in/erwin1412**
+- 📬 Contact me at: [LinkedIn](https://www.linkedin.com/in/erwin1412)
 
 ---
 
