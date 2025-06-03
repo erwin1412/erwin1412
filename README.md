@@ -85,7 +85,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=erwin1412&show_icons=true&theme=tokyonight&hide_border=false" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=erwin1412&theme=tokyonight&hide_border=false" width="48%"/>
 </p>
----
 
 ## 📊 Top Languages I Use
 
