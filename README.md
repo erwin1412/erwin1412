@@ -1,10 +1,10 @@
 <!-- Modern README Profile for GitHub -->
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#F55247">Erwin</span></h1>
-<h3 align="center"> Fullstack Developer | Blockchain Enthusiast | Master of Informatics Student</h3>
+<h3 align="center">Fullstack Developer | Blockchain Enthusiast | Master of Informatics Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=440&lines=-Fullstack+Developer+(Laravel%2C+Golang%2C+React);-Blockchain+Researcher+(Smart+Contract);Passionate+about+Tech+%26+Problem+Solving" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=440&lines=Fullstack+Developer+(Laravel%2C+Golang%2C+React);Blockchain+Researcher+(Smart+Contract);Passionate+about+Tech+%26+Problem+Solving" alt="Typing SVG" />
 </p>
 
 ---
